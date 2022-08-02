@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.884d9ea2.css",
-    "main.js": "/portfolio/static/js/main.6a22ad44.js",
+    "main.css": "/portfolio/static/css/main.08b8746a.css",
+    "main.js": "/portfolio/static/js/main.108399e6.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/IMGP1.png": "/portfolio/static/media/IMGP1.e86461008ab3c4df651a.png",
     "static/media/DSC_0465.JPG": "/portfolio/static/media/DSC_0465.5c9d41689e584c3b01f9.JPG",
@@ -11,15 +11,16 @@
     "static/media/clube do paiva.png": "/portfolio/static/media/clube do paiva.9914ec4abdb1df92e719.png",
     "static/media/projeto1.png": "/portfolio/static/media/projeto1.55adb92eaa4ad75f1ca4.png",
     "static/media/tetris.png": "/portfolio/static/media/tetris.72522fb01e4a9ba3774c.png",
+    "static/media/linked.png": "/portfolio/static/media/linked.41a23f98c77f41c13b8e.png",
     "static/media/face.png": "/portfolio/static/media/face.284d1cc1b59876a0e738.png",
     "static/media/logo.png": "/portfolio/static/media/logo.17e150d610409dc8e7b5.png",
     "index.html": "/portfolio/index.html",
-    "main.884d9ea2.css.map": "/portfolio/static/css/main.884d9ea2.css.map",
-    "main.6a22ad44.js.map": "/portfolio/static/js/main.6a22ad44.js.map",
+    "main.08b8746a.css.map": "/portfolio/static/css/main.08b8746a.css.map",
+    "main.108399e6.js.map": "/portfolio/static/js/main.108399e6.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.884d9ea2.css",
-    "static/js/main.6a22ad44.js"
+    "static/css/main.08b8746a.css",
+    "static/js/main.108399e6.js"
   ]
 }
